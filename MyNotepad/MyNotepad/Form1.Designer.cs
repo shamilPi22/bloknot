@@ -34,7 +34,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(76, 134);
+            this.button1.Location = new System.Drawing.Point(113, 66);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(120, 39);
             this.button1.TabIndex = 0;
@@ -46,8 +46,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
-            this.ClientSize = new System.Drawing.Size(345, 272);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.ClientSize = new System.Drawing.Size(812, 207);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Блокнот";
